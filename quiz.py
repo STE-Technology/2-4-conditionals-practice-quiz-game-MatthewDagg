@@ -60,5 +60,5 @@ else:
 # End
 print("Quiz Complete!")
 
-score = (counter * 10) / 3
+score = (counter * 100) / 3
 print("You answered " + str(counter) + (" out of 3 questions correctly. Your score is " + str(score) + ("%")))
